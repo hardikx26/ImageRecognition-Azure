@@ -15,20 +15,11 @@ namespace ImageRecognition.API.Controllers
     {
         private readonly AzureConfig azureConfig;
 
-        /// <summary>
-        /// Initializes a new instance of the <see cref="ImagesController"/> object.
-        /// </summary>
-        /// <param name="config"></param>
         public ImagesController(IOptions<AzureConfig> config)
         {
             this.azureConfig = config.Value;
         }
 
-        /// <summary>
-        /// Retrieves tags by analyzing image content
-        /// </summary>
-        /// <param name="file">The image file sent through the form data</param>
-        /// <returns>A list of tags</returns>
         [HttpPost("tags")]
         public async Task<IActionResult> RetrieveTags([FromForm] IFormFile file1 )
         {
@@ -54,11 +45,6 @@ namespace ImageRecognition.API.Controllers
             }
         }
 
-        /// <summary>
-        /// Retrieves description information of the image
-        /// </summary>
-        /// <param name="file">The image file sent through the form data</param>
-        /// <returns>A list of possible descriptions of the image</returns>
         [HttpPost("descriptions")]
         public async Task<IActionResult> RetrieveDescription([FromForm] IFormFile file1)
         {

@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-master\\AzureImageRecognition\\ImageRecognition.UI\\obj\\Debug\\netcoreapp2.2\\project.razor.json",
-  "FilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-master\\AzureImageRecognition\\ImageRecognition.UI\\ImageRecognition.UI.csproj",
+  "SerializedFilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-Azure\\AzureImageRecognition\\ImageRecognition.UI\\obj\\Debug\\netcoreapp2.2\\project.razor.json",
+  "FilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-Azure\\AzureImageRecognition\\ImageRecognition.UI\\ImageRecognition.UI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -13,7 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1080296421,
+        "HashCode": 358913129,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -212,7 +212,7 @@
         }
       },
       {
-        "HashCode": 1681389488,
+        "HashCode": 1724792023,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -341,7 +341,7 @@
         }
       },
       {
-        "HashCode": -2096674199,
+        "HashCode": 372232738,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -475,7 +475,7 @@
         }
       },
       {
-        "HashCode": 431084983,
+        "HashCode": -234069372,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -523,7 +523,7 @@
         }
       },
       {
-        "HashCode": 1034778602,
+        "HashCode": -1941995785,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -942,7 +942,7 @@
         }
       },
       {
-        "HashCode": 1888905626,
+        "HashCode": 2060366034,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1046,7 +1046,7 @@
         }
       },
       {
-        "HashCode": 1703178225,
+        "HashCode": -529974647,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1094,7 +1094,7 @@
         }
       },
       {
-        "HashCode": 697476688,
+        "HashCode": -1584028841,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1166,7 +1166,7 @@
         }
       },
       {
-        "HashCode": -1647272780,
+        "HashCode": -2022807980,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1201,7 +1201,7 @@
         }
       },
       {
-        "HashCode": 1237115350,
+        "HashCode": -2073673695,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1399,7 +1399,7 @@
         }
       },
       {
-        "HashCode": -1990294388,
+        "HashCode": -1427497280,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1429,7 +1429,7 @@
         }
       },
       {
-        "HashCode": 651913587,
+        "HashCode": 670667117,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1512,7 +1512,7 @@
         }
       },
       {
-        "HashCode": 427786772,
+        "HashCode": -291714851,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1667,7 +1667,7 @@
         }
       },
       {
-        "HashCode": -131472673,
+        "HashCode": 938202835,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1728,7 +1728,7 @@
         }
       },
       {
-        "HashCode": -2086197006,
+        "HashCode": -469155026,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1772,7 +1772,7 @@
         }
       },
       {
-        "HashCode": 1968693659,
+        "HashCode": 1819265458,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1806,7 +1806,7 @@
         }
       },
       {
-        "HashCode": 1687342339,
+        "HashCode": 1423408897,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1842,7 +1842,7 @@
         }
       },
       {
-        "HashCode": -2079322745,
+        "HashCode": -1035707290,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.SpaServices.Prerendering.PrerenderTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.SpaServices",
@@ -1909,12 +1909,12 @@
   "RootNamespace": "ImageRecognition.UI",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-master\\AzureImageRecognition\\ImageRecognition.UI\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-Azure\\AzureImageRecognition\\ImageRecognition.UI\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-master\\AzureImageRecognition\\ImageRecognition.UI\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\Hardik\\Downloads\\ImageRecognition-Azure\\ImageRecognition-Azure\\AzureImageRecognition\\ImageRecognition.UI\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
