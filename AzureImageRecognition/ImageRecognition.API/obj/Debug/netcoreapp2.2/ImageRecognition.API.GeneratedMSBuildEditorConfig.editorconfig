@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ImageRecognition.API
+build_property.ProjectDir = c:\Users\Hardik\Downloads\ImageRecognition-Azure\ImageRecognition-master\AzureImageRecognition\ImageRecognition.API\
